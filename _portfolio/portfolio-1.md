@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Domain Adaptation with CycleGAN"
+excerpt: "<br/>Created a CycleGAN-based project for domain adaptation with adversarial training.<img src='/images/cycle gan.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project I implemened [Cycle-GAN] (https://arxiv.org/pdf/1703.10593) paper for domain adaptation. Implemented adversarial training with cyclic consistency loss for unpaired data mappings. Enhanced model robustness and adaptability for various applications.
+The primary objective is to demonstrate the capability of CycleGAN to learn a mapping between two domains without the need for paired training data. You can find the implementation [here] (https://github.com/jasmeetsingh-028/Domain-Adaptation-using-Cycle-GAN-)
