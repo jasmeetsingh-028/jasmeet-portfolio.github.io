@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hello! I'm Jasmeet Singh, a passionate Data Scientist and recent graduate in Electronics and Communication Engineering (ECE) from Bennett University. My journey through academia and research has been driven by a deep curiosity and enthusiasm for Data Science and Machine Learning. 
+👋 A passionate Data Scientist and recent graduate in Electronics and Communication Engineering (ECE) from Bennett University. My journey through academia and research has been driven by a deep curiosity and enthusiasm for Data Science and Machine Learning. 
 
 🔍 I love exploring the realms of data science, machine learning, and computer vision. My experiences have equipped me with the skills to tackle complex problems and develop innovative solutions. Whether it's working with deep learning models or visualizing intricate datasets, I find joy in uncovering insights and making impactful contributions.
 

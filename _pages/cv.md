@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 ## Academic Qualification
 
 **Bachelor of Engineering in Electronics and Communication**  
