@@ -1,8 +1,9 @@
 ---
-title: "Domain Adaptation with CycleGAN"
-excerpt: "<br/>Created a CycleGAN-based project for domain adaptation with adversarial training.<img src='/images/cycle gan.jpg'>"
+title: "Denoising Diffusion Model Implementation from scratch"
+excerpt: "<br/>Implemented Denoising Diffusion Model from scratch in PyTorch.<img src='/images/cycle gan.jpg'>"
 collection: portfolio
 ---
 
-In this project I implemened [Cycle-GAN] (https://arxiv.org/pdf/1703.10593) paper for domain adaptation. Implemented adversarial training with cyclic consistency loss for unpaired data mappings. Enhanced model robustness and adaptability for various applications.
-The primary objective is to demonstrate the capability of CycleGAN to learn a mapping between two domains without the need for paired training data. You can find the implementation [here] (https://github.com/jasmeetsingh-028/Domain-Adaptation-using-Cycle-GAN-)
+
+
+In this project, I implemented a [denoising diffusion model](https://arxiv.org/pdf/2006.11239) from scratch, leveraging a UNet-based architecture. Denoising Diffusion Models are a powerful class of generative models that transform data distributions into noise distributions and learn to reverse this process to generate new data. My detailed guide covers the theoretical background, training methodology, and sampling process. Through this implementation, I explore how these models function by gradually adding noise to images and then training a network to effectively remove the noise and generate high-quality images. You can heck the code [here](https://colab.research.google.com/drive/12tVSnn878CHD4zsdzIXiQmm1wKbN5Z6t?usp=sharing) and read the article on it [here](https://medium.com/@sjasmeet135/denoising-diffusion-model-implementation-from-scratch-b0a1fc6ef5d8)
