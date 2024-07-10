@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Jasmeet Singh's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Jasmeet Singh's Portfolio
 
 ## Academic Qualification
 
