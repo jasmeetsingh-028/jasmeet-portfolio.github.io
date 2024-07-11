@@ -1,6 +1,6 @@
 ---
 title: "Pix2Pix Conditional GAN Implementation"
-excerpt: "<br/>Created a CycleGAN-based project for domain adaptation with adversarial training.<img src='../images/portfolio/cg.png' style='width:50%;'>"
+excerpt: "<br/>Created a CycleGAN-based project for domain adaptation with adversarial training.<img src='../images/portfolio/pix.png' style='width:50%;'>"
 collection: portfolio
 ---
 
