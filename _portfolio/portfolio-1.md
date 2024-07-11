@@ -1,6 +1,6 @@
 ---
 title: "Denoising Diffusion Model Implementation from scratch"
-excerpt: "<br/>Implemented Denoising Diffusion Model from scratch in PyTorch.<img src='../images/ddpm.png' style='width:50%;'>"
+excerpt: "<br/>Implemented Denoising Diffusion Model from scratch in PyTorch.<img src='../images/portfolio/ddpm.png' style='width:50%;'>"
 collection: portfolio
 ---
 
