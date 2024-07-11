@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Hey there, I'm Jasmeet!"
+excerpt: "<img src='../images/cv.jpeg' style='width:50%;'>"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +10,6 @@ redirect_from:
 
 
 👋 I am a passionate Machine Learning enthusiast and recent Electronics and Communication Engineering (ECE) graduate from Bennett University. My academic and research journey has fueled my enthusiasm for Machine Learning and Deep Learning.
-
-![What I do](/images/cv.jpeg){: .align-right width="300px"} <!-- Add an image related to data science, like a graph or code snippet -->
 
 🔍 I enjoy exploring machine learning, computer vision, and Natural Language Processing. My experiences have honed my skills in solving complex problems and developing innovative solutions, whether working with deep learning models or visualizing datasets.
 
