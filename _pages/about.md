@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Hey there, I'm Jasmeet!"
-excerpt: "<img src='../images/cv.jpeg' style='width:50%;'>"
 author_profile: true
 redirect_from: 
   - /about/
