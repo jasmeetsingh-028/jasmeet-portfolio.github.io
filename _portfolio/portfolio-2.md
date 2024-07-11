@@ -1,6 +1,6 @@
 ---
 title: "Domain Adaptation with CycleGAN"
-excerpt: "<br/>Created a CycleGAN-based project for domain adaptation with adversarial training.<img src='../images/cg.png'>"
+excerpt: "<br/>Created a CycleGAN-based project for domain adaptation with adversarial training.<img src='../images/cg.png' style='width:50%;'>"
 collection: portfolio
 ---
 
