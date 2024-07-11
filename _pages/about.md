@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-👋 I am a passionate Data Scientist and recent Electronics and Communication Engineering (ECE) graduate from Bennett University. My academic and research journey has fueled my enthusiasm for Data Science and Machine Learning.
 
-🔍 I enjoy exploring data science, machine learning, and computer vision. My experiences have honed my skills in solving complex problems and developing innovative solutions, whether working with deep learning models or visualizing datasets.
+👋 I am a passionate Machine Learning enthusiast and recent Electronics and Communication Engineering (ECE) graduate from Bennett University. My academic and research journey has fueled my enthusiasm for Machine Learning and Deep Learning.
+
+![Data Science](../images/cv.jpeg)  <!-- Add an image related to data science, like a graph or code snippet -->
+
+🔍 I enjoy exploring machine learning, computer vision, and Natural Language Processing. My experiences have honed my skills in solving complex problems and developing innovative solutions, whether working with deep learning models or visualizing datasets.
+
 
 🤝 I thrive in collaborative environments and love working with teams to bring ideas to life. I'm always eager to learn, grow, and apply my knowledge to real-world challenges. If you share similar interests or have exciting opportunities, let’s connect!
 
